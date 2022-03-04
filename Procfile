@@ -1,0 +1,1 @@
+web: java -jar target/imagetester-1.0.jar
